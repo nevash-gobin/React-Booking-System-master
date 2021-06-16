@@ -1,9 +1,8 @@
 <p align="center">
-  <a href="https://papriika.com">
   Booking System
   </a>
   <p align="center">
-    Hotel Club. Access the world's best hotels. Pay no booking fees.
+   
     <br/>
     <a href="https://github.com/Excellent1212/Booking-System-React"><strong>GitHub</strong></a>
     &middot;
@@ -28,20 +27,9 @@
 </p>
 <br/>
 
-## Table of contents
-
-- [Status](#status)
-- [Quick Start](#quick-start)
-- [Maintainers](#maintainers)
-
-
 ## Quick start
 
 Quickly start by cloning the repository to your local machine
-
-```
-$ git clone https://github.com/Excellent1212/Booking-System-React.git
-```
 
 Install [`npm`](https://www.npmjs.com/get-npm). `npm` is installed and comes bundled with [Node.js](https://nodejs.org/en/download/package-manager/)
 
