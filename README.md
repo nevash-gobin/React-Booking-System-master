@@ -1,6 +1,7 @@
 ### Booking System
 
-      <img src="https://img.shields.io/github/stars/papriika/papriika.com.svg?style=social&label=Star&maxAge=2592000" alt="Star Repo">
+ <img width="877" alt="Screen Shot 2021-06-16 at 7 46 35 PM" src="https://user-images.githubusercontent.com/49222216/122309061-9a7d6180-cedb-11eb-927e-18f39bff3f07.png">
+
 
 ## Quick start
 
